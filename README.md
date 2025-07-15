@@ -9,7 +9,8 @@
 
 **굵게**
 ----
-[네이버](www.naver.com)
+[네이버](https://www.naver.com/)
+<https://www.naver.com/>
 
 + safasf
     + sadfasfasd
